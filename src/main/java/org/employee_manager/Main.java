@@ -1,4 +1,4 @@
-package org.e_manager;
+package org.employee_manager;
 
 public class Main {
     public static void main(String[] args) {
